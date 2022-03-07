@@ -77,3 +77,12 @@ td {
   padding-left: 0;
   text-align: left;
 }
+
+.delete-btn {
+  text-decoration: none;
+  color: white;
+  padding: 0.4rem 0.8rem;
+  border-radius: 15px;
+  background-color: red;
+  cursor: pointer;
+}
