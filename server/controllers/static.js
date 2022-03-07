@@ -1,10 +1,10 @@
 module.exports = [
   {
-    name: 'Ali',
-    location: 'Gaza'
+    name: 'Abedalrahman',
+    location: 'Gaza',
   },
   {
-    name: 'Shireen',
-    location: 'Nazareth'
+    name: 'Rawwan',
+    location: 'Gaza Strip',
   },
 ];
